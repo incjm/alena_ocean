@@ -1,0 +1,21 @@
+header {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../Ed-Era/img/okean.jpg);/* no-repeat center top/cover;*/
+    height: 45vw;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.container {
+    width: 67vw;
+    margin: 0 auto;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+   
+}
+
