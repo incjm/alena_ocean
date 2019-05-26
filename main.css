@@ -1,0 +1,45 @@
+header {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../Ed-Era/img/okean.jpg);/* no-repeat center top/cover;*/
+    height: 45vw;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.container {
+    width: 67vw;
+    margin: 0 auto;
+}
+
+ul.menu {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+   }
+   ul.menu li {
+    display: inline;/* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+    /* border: 1px solid #000; Рамка вокруг текста */
+    padding: 3px; /* Поля вокруг текста */
+    
+    /* align-self: center; */
+   }
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.sea {
+    width: 20%;
+    height: auto;
+}
+
+.lady {
+    width: 20%;
+    height: auto;
+}
