@@ -27,8 +27,6 @@ ul.menu {
     margin-right: 5px; /* Отступ слева */
     /* border: 1px solid #000; Рамка вокруг текста */
     padding: 3px; /* Поля вокруг текста */
-    
-    /* align-self: center; */
    }
 
 a { 
@@ -38,15 +36,18 @@ a {
 
 .quote {
     display: flex;
-    /* align-content: flex-end; */
     justify-content: center;
-    /* text-align: center; */
     font-size: 25px;
     font-style: oblique;
     margin-top: 30%;
     color: rgb(255, 135, 22);
-    /* font-style: italic; */
    }
+
+@media (max-width: 800px) {
+        .quote {
+            font-size: 12px;
+        }
+    }
 
 body {
     margin: 0px;
