@@ -60,7 +60,7 @@ body {
     padding: 0px;
 }
 
-.sea {
+.sea, .sand {
     width: 20%;
     height: auto;
 }
