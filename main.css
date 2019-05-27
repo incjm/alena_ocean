@@ -60,12 +60,17 @@ body {
     padding: 0px;
 }
 
-.sea, .sand {
+.sea {
     width: 20%;
     height: auto;
 }
 
 .seaBeaut {
     width: 15%;
+    height: auto;
+}
+
+.sand {
+    width: 30%;
     height: auto;
 }
