@@ -29,6 +29,12 @@ ul.menu {
     padding: 3px; /* Поля вокруг текста */
    }
 
+@media (max-width: 800px) {
+        ul.menu {
+            font-size: 12px;
+        }
+    }
+
 a { 
     text-decoration: none; /* Отменяем подчеркивание у ссылки */
     color: white;
