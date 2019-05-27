@@ -42,23 +42,33 @@ a {
 
 .quote {
     display: flex;
-    justify-content: center;
-    font-size: 25px;
+    justify-content: left;
+    font-size: 35px;
     font-style: oblique;
-    margin-top: 30%;
+    margin-top: 35%;
     color: rgb(255, 135, 22);
    }
 
-@media (max-width: 800px) {
-        .quote {
-            font-size: 12px;
-        }
+   @media (max-width: 800px) {
+    .quote {
+        font-size: 18px;
     }
+}
 
 body {
     margin: 0px;
     padding: 0px;
 }
+
+.galery {
+    margin-top: 10px;
+    padding: 0px; 
+}
+
+.seaB {
+    height: 500px;
+    display: flex;
+  }
 
 .sea {
     width: 20%;
@@ -66,18 +76,33 @@ body {
 }
 
 .seaBeaut {
-    width: 15%;
+    width: 90%;
     height: auto;
 }
 
+.text {
+    background-image: url(/alena_ocean/img/fon1.jpg);/* no-repeat center top/cover;*/
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.txt {
+    justify-content: center;
+    font-size: 2vw;
+    font-style: oblique;
+    padding-right: 20%;
+    padding-left: 8%; 
+}
+
 .sand {
-    width: 26,5%;
+    width: 27%;
     height: auto;
 }
 
 @media (max-width: 800px) {
         .sand {
-            width: 26,5%;
+            width: 26%;
             height: auto;
         }
     }
