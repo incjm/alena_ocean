@@ -71,6 +71,13 @@ body {
 }
 
 .sand {
-    width: 27%;
+    width: 30%;
     height: auto;
 }
+
+@media (max-width: 800px) {
+        .sand {
+            width: 20%;
+            height: auto;
+        }
+    }
