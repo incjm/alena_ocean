@@ -119,3 +119,22 @@ body {
     margin: 0;
     padding: 0; 
 }
+
+.enjoy {
+    margin-top: 0vw;
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tenj {
+    font-size: 5vw;
+    font-style: oblique;
+    padding-right: 10%;
+    padding-left: 10%; 
+}
+
+.dream {
+    width: 35vw;
+    height: auto;
+}
