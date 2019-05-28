@@ -102,3 +102,20 @@ body {
             height: auto;
         }
     }
+
+.hat {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 5vw;
+    display: flex;
+    justify-content: center;
+    font-size: 4vw;
+    font-style: oblique;
+    background-color: cadetblue;
+}
+
+.tx {
+    margin: 0;
+    padding: 0; 
+}
