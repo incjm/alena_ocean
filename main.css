@@ -19,8 +19,7 @@ ul.menu {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    font-size: 18px;
-    color: blue;
+    font-size: 22px;
    }
    ul.menu li {
     display: inline;/* Отображать как строчный элемент */
@@ -46,13 +45,12 @@ a {
     font-size: 35px;
     font-style: oblique;
     margin-top: 35%;
-    color: rgb(255, 135, 22);
    }
 
    @media (max-width: 800px) {
     .quote {
         font-size: 18px;
-        margin-top: 28%;
+        margin-top: 27%;
     }
 }
 
@@ -71,7 +69,7 @@ body {
 }
 
 .seaB {
-    height: 500px;
+    height: 700px;
     display: flex;
   }
 
@@ -81,13 +79,13 @@ body {
 }
 
 .seaBeaut {
-    width: 70%;
+    width: 35vw;
     height: auto;
 }
 
 .txt {
     justify-content: center;
-    font-size: 2vw;
+    font-size: 3vw;
     font-style: oblique;
     padding-right: 20%;
     padding-left: 8%; 
