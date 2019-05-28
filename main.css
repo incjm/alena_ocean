@@ -128,13 +128,15 @@ body {
 }
 
 .tenj {
+    background-color:  rgb(30, 248, 255);
     font-size: 5vw;
     font-style: oblique;
+    padding-top: 12%;
     padding-right: 10%;
     padding-left: 10%; 
 }
 
 .dream {
-    width: 55vw;
+    width: 57vw;
     height: auto;
 }
