@@ -1,7 +1,7 @@
 header {
     margin: 0px;
     padding: 0px;
-    background-image: url(/alena_ocean/img/okean.jpg);/* no-repeat center top/cover;*/
+    background-image: url(/alena_okean/img/okean.jpg);/* no-repeat center top/cover;*/
     height: 45vw;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -62,7 +62,7 @@ body {
 .galery {
     margin-top: 10px;
     padding: 0px;
-    background-image: url(/alena_ocean/img/fon1.jpg);/* no-repeat center top/cover;*/
+    background-image: url(/alena_okean/img/fon1.jpg);/* no-repeat center top/cover;*/
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center top;
