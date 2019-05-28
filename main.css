@@ -60,19 +60,13 @@ body {
 }
 
 .galery {
-    margin-top: 10px;
+    margin-top: 0.6vw;
     padding: 0px;
     background-image: url(/alena_okean/img/fon1.jpg);/* no-repeat center top/cover;*/
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center top;
 }
-
-@media (max-width: 800px) {
-        .galery {
-            margin-top: 5px;
-        }
-    }
 
 .seaB {
     height: 70vw;
