@@ -120,23 +120,23 @@ body {
     margin-top: 0vw;
     padding: 0px;
     display: flex;
-    justify-content: space-between;
-    }
+    flex-direction: row;
+}
 
 .tenj {
     background-color:  rgb(30, 248, 255);
     padding-top: 12%;
-    padding-right: 10%;
+    padding-right: 9%;
     padding-left: 10%; 
-    }
-        
- .penj {
+}
+
+.penj {
     color: rgb(3, 140, 170);
     font-size: 5vw;
     font-style: italic;
-    }
+}
 
 .dream {
-    width: 57vw;
+    width: 57.2vw;
     height: auto;
-    }
+}
