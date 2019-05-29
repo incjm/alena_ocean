@@ -124,11 +124,15 @@ body {
 
 .tenj {
     background-color:  rgb(30, 248, 255);
-    font-size: 5vw;
-    font-style: oblique;
     padding-top: 12%;
     padding-right: 10%;
     padding-left: 10%; 
+}
+        
+ .penj {
+    color: rgb(3, 140, 170);
+    font-size: 5vw;
+    font-style: italic;
 }
 
 .dream {
