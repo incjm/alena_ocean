@@ -22,17 +22,17 @@ ul.menu {
     font-size: 2vw;
    }
 
-    ul.menu li:hover {/* При наведении курсора мишки*/
+  ul.menu li:hover {/* При наведении курсора мишки*/
     text-shadow: 4px 6px 4px rgb(0, 9, 134);
     font-size: 2.7vw;
     padding-top: 1vw;
-}
+    }
         
    ul.menu li {
     display: inline;/* Отображать как строчный элемент */
     margin-right: 1.8vw; /* Отступ слева */
     padding-top: 2vw; /* Поля вокруг текста */
-   }
+    }
         
   @media (max-width: 800px) {
        ul.menu li {
@@ -57,19 +57,19 @@ a {
     .quote {
         font-size: 18px;
         margin-top: 27%;
+        }
     }
-}
         
 .qu>a:hover {
     text-shadow: 4px 6px 4px rgb(255, 0, 234);
     font-size: 3vw;
     margin-top: 27%;
-}
+    }
 
 body {
     margin: 0px;
     padding: 0px;
-}
+    }
 
 .galery {
     margin-top: 0.6vw;
@@ -79,17 +79,17 @@ body {
     background-repeat: no-repeat;
     background-position: center top;
     margin-bottom: 0;
-}
+    }
 
 .seaB {
     height: 70vw;
     display: flex;
-  }
+    }
 
 .seaBeaut {
     width: 35vw;
     height: auto;
-}
+    }
 
 .txt {
     justify-content: center;
@@ -97,7 +97,7 @@ body {
     font-style: oblique;
     padding-right: 20%;
     padding-left: 8%; 
-}
+    }
 
 .hat {
     margin: 0;
@@ -109,34 +109,34 @@ body {
     font-size: 4vw;
     font-style: oblique;
     background-color: rgb(30, 248, 255);
-}
+    }
 
 .tx {
     margin: 0;
     padding: 0; 
-}
+    }
 
 .enjoy {
     margin-top: 0vw;
     padding: 0px;
     display: flex;
     justify-content: space-between;
-}
+    }
 
 .tenj {
     background-color:  rgb(30, 248, 255);
     padding-top: 12%;
     padding-right: 10%;
     padding-left: 10%; 
-}
+    }
         
  .penj {
     color: rgb(3, 140, 170);
     font-size: 5vw;
     font-style: italic;
-}
+    }
 
 .dream {
     width: 57vw;
     height: auto;
-}
+    }
