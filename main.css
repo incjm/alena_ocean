@@ -8,6 +8,53 @@ header {
     background-position: center top;
 }
 
+.osn {/* Beaut*/
+    background-image: url(../Ed-Era/img/beaut.jpg);/* no-repeat center top/cover;*/
+}
+
+.hater {/* Beaut*/
+    margin: 0px;
+    padding: 0px;
+    height: 50vw;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.home {/* Beaut*/
+    text-shadow: 4px 6px 7px rgb(245, 95, 220);
+    font-size: 2.7vw;
+    padding-top: 1vw;
+    padding-left: 1.3vw;
+    font-style: italic;
+}
+
+.home>a:hover {/* Beaut*/
+    text-shadow: 4px 6px 4px rgb(2, 120, 255);
+    font-size: 2.7vw;
+    padding-top: 1vw;
+}
+
+.hat1 {/* Beaut*/
+    background-image: url(../Ed-Era/img/beaut1.jpg);
+}
+
+.hat2 {/* Beaut*/
+    background-image: url(../Ed-Era/img/beaut2.jpg);
+}
+
+.hat3 {/* Beaut*/
+    background-image: url(../Ed-Era/img/beaut3.jpg);
+}
+
+.hat4 {/* Beaut*/
+    background-image: url(../Ed-Era/img/beaut4.jpg);
+}
+
+.hat5 {/* Beaut*/
+    background-image: url(../Ed-Era/img/beaut5.jpg);
+}
+
 .container {
     width: 87vw;
     margin: 0 auto;
