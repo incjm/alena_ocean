@@ -9,7 +9,7 @@ header {
 }
 
 .osn {/* Beaut*/
-    background-image: url(../alena_okean/img/beaut.jpg);/* no-repeat center top/cover;*/
+    background-image: url(/alena_okean/img/beaut.jpg);/* no-repeat center top/cover;*/
 }
 
 .hater {/* Beaut*/
@@ -36,23 +36,23 @@ header {
 }
 
 .hat1 {/* Beaut*/
-    background-image: url(../alena_okean/img/beaut1.jpg);
+    background-image: url(/alena_okean/img/beaut1.jpg);
 }
 
 .hat2 {/* Beaut*/
-    background-image: url(../alena_okean/img/beaut2.jpg);
+    background-image: url(/alena_okean/img/beaut2.jpg);
 }
 
 .hat3 {/* Beaut*/
-    background-image: url(../alena_okean/img/beaut3.jpg);
+    background-image: url(/alena_okean/img/beaut3.jpg);
 }
 
 .hat4 {/* Beaut*/
-    background-image: url(../alena_okean/img/beaut4.jpg);
+    background-image: url(/alena_okean/img/beaut4.jpg);
 }
 
 .hat5 {/* Beaut*/
-    background-image: url(../alena_okean/img/beaut5.jpg);
+    background-image: url(/alena_okean/img/beaut5.jpg);
 }
 
 .container {
