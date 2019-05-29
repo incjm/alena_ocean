@@ -58,7 +58,8 @@ a {
         margin-top: 27%;
     }
 }
-        .qu>a:hover {
+        
+.qu>a:hover {
     text-shadow: 4px 6px 4px rgb(255, 0, 234);
     font-size: 3vw;
     margin-top: 27%;
@@ -76,17 +77,13 @@ body {
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center top;
+    margin-bottom: 0;
 }
 
 .seaB {
     height: 70vw;
     display: flex;
   }
-
-.sea {
-    width: 20%;
-    height: auto;
-}
 
 .seaBeaut {
     width: 35vw;
