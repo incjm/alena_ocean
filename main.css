@@ -19,20 +19,19 @@ ul.menu {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    font-size: 22px;
-   }
-   ul.menu li {
-    display: inline;/* Отображать как строчный элемент */
-    margin-right: 5px; /* Отступ слева */
-    /* border: 1px solid #000; Рамка вокруг текста */
-    padding: 3px; /* Поля вокруг текста */
+    font-size: 2vw;
    }
 
-@media (max-width: 800px) {
-        ul.menu li {
-            font-size: 12px;
-        }
-    }
+    ul.menu li:hover {/* При наведении курсора мишки*/
+    text-shadow: 4px 6px 4px rgb(0, 9, 134);
+    font-size: 2.7vw;
+    padding-top: 1vw;
+        
+   ul.menu li {
+    display: inline;/* Отображать как строчный элемент */
+    margin-right: 1.8vw; /* Отступ слева */
+    padding-top: 2vw; /* Поля вокруг текста */
+   }
 
 a { 
     text-decoration: none; /* Отменяем подчеркивание у ссылки */
@@ -42,16 +41,21 @@ a {
 .quote {
     display: flex;
     justify-content: left;
-    font-size: 35px;
+    font-size: 2.8vw;
     font-style: oblique;
     margin-top: 35%;
    }
 
-   @media (max-width: 800px) {
+/*   @media (max-width: 800px) {
     .quote {
         font-size: 18px;
         margin-top: 27%;
     }
+}*/
+        .qu>a:hover {
+    text-shadow: 4px 6px 4px rgb(255, 0, 234);
+    font-size: 3vw;
+    margin-top: 27%;
 }
 
 body {
@@ -90,18 +94,6 @@ body {
     padding-right: 20%;
     padding-left: 8%; 
 }
-
-.sand {
-    width: 27%;
-    height: auto;
-}
-
-@media (max-width: 800px) {
-        .sand {
-            width: 26%;
-            height: auto;
-        }
-    }
 
 .hat {
     margin: 0;
