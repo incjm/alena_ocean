@@ -18,6 +18,12 @@ body {
     background-position: center top;
 }
 
+@media (max-width: 800px) {
+    #hom {
+        font-size: 10vw;
+    }
+}
+
 a {
     text-decoration: none;/* Отменяем подчеркивание у ссылки */
 }
