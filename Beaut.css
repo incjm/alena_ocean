@@ -110,6 +110,12 @@ ul.toup li:hover {
     padding-top: 5.5vw;
 }
 
+@media (max-width: 800px) {
+    .toup {
+        font-size: 30vw;
+    }
+}
+
    ul.toup li {
     display: inline;/* Отображать как строчный элемент */
     margin-right: 1.8vw; /* Отступ слева */
