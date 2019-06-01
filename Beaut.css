@@ -107,6 +107,7 @@ ul.toup {
     justify-content: flex-end;
     font-size: 5.5vw;
     text-shadow: 6px 8px 3px rgb(145, 58, 130);
+}
 
 ul.toup li:hover {
     text-shadow: 4px 6px 4px rgb(2, 120, 255);
