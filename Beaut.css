@@ -98,27 +98,20 @@ ul.menu li:hover {
     padding-bottom: 2vw;
 }
 
-ul.toup {
-    margin: 0; /* Обнуляем значение отступов */
-    padding: 2px;/* Значение полей */
-    padding-left: 3vw;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    font-size: 3.5vw;
-    text-shadow: 6px 8px 3px rgb(145, 58, 130);
-}
-
 ul.toup li:hover {
     text-shadow: 4px 6px 4px rgb(2, 120, 255);
     font-size: 5vw;
     flex-direction: flex-end;
-    padding-top: 5.5vw;
+    padding-top: 7.5vw;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 700px) {
     #click {
         font-size: 30vw;
+        margin-right: 28vw;
+        position:fixed;
+    top:50%;
+    left:80%;
     }
 }
 
@@ -129,5 +122,11 @@ ul.toup li:hover {
    }
 
 .up { /*Beaut*/
-    color: rgb(0, 140, 255);
+    position:fixed;
+    top:75%;
+    left:90%;
+     justify-content: flex-end;
+     color: rgb(0, 140, 255);
+    shadow: 5px 7px 5px rgb(245, 95, 220);
+    /*font-size: 2.5vw;*/
 }
