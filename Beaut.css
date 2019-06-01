@@ -135,6 +135,7 @@ ul.toup li:hover {
    }
 
 .up { /*Beaut*/
+    display:none;
     position:fixed;
     top:75%;
     left:90%;
