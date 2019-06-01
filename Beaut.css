@@ -20,7 +20,7 @@ body {
 
 @media (max-width: 800px) {
     #hom {
-        font-size: 10vw;
+        font-size: 8vw;
     }
 }
 
@@ -29,6 +29,8 @@ a {
 }
 
 .tohome {/* Beaut*/
+     position: fixed;
+    top: 1%;
     color: whitesmoke;
 }
 
