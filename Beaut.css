@@ -111,7 +111,7 @@ ul.toup {
 
 ul.toup li:hover {
     text-shadow: 4px 6px 4px rgb(2, 120, 255);
-    font-size: 5vw;
+    font-size: 6vw;
     flex-direction: flex-end;
     padding-top: 7.5vw;
 }
