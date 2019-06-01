@@ -11,7 +11,7 @@ $(document).ready(function(){
       if($(window).scrollTop()>120){
         $('#click').fadeIn(900)
       }else{
-        $('#click').fadeOut(700)
+        $('#click').fadeOut(100)
       }
     });
   });
