@@ -177,8 +177,8 @@ body {
     padding-left: 10%; 
 }
 
-.penj {
-    color: rgb(3, 140, 170);
+#enjoy {
+    /* color: rgb(3, 140, 170); */
     font-size: 5vw;
     font-style: italic;
 }
