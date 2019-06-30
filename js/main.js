@@ -51,10 +51,10 @@ $(document).ready(function(){
   // setInterval(animeEnjoy.style.color = animation(), 1000);
   function flashColor() {
     var elem=document.all.enjoy.style;
-if (elem.color=="deepskyblue")
-    elem.color="midnightblue"
+if (elem.color=="cyan")
+    elem.color="rgb(0, 17, 250)"
 else
-    elem.color="deepskyblue"
+    elem.color="cyan"
 }
 
 setInterval(flashColor, 1000)
