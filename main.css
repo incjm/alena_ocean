@@ -87,6 +87,10 @@ ul.menu {
        }
    }
 
+    p {
+     color: rgb(0, 17, 250);
+    }
+
 a { 
     text-decoration: none; /* Отменяем подчеркивание у ссылки */
     color: white;
@@ -171,7 +175,7 @@ body {
 }
 
 .tenj {
-    background-color:  rgb(30, 248, 255);
+    background-color:  rgb(0, 217, 255);
     padding-top: 12%;
     padding-right: 9%;
     padding-left: 10%; 
