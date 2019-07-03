@@ -166,7 +166,7 @@ ul.toup li:hover {
 
 @media (max-width: 360px) {
   #click {
-    font-size: 14vw;
+    font-size: 17vw;
     margin-right: 28vw;
     position: fixed;
     top: 50%;
