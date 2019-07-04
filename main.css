@@ -178,27 +178,26 @@ ul.toup li:hover {
 
 @media (max-width: 360px) {
   #click {
-    font-size: 17vw;
-    margin-right: 28vw;
+    font-size: 18vw;
+    /*margin-right: 28vw;*/
     position: fixed;
     top: 50%;
-    left: 80%;
+    /*left: 80%;*/
   }
 }
 
 ul.toup li {
   display: inline; /* Отображать как строчный элемент */
-  margin-right: 1.8vw; /* Отступ слева */
+  /*margin-right: 1.8vw;  Отступ слева */
   padding-top: 7vw; /* Поля вокруг текста */
 }
 
 #click {
-  /*Beaut*/
   display: none;
   position: fixed;
   top: 75%;
   left: 90%;
   justify-content: flex-end;
   color: rgb(0, 140, 255);
-  shadow: 5px 7px 5px rgb(245, 95, 220);
+  text-shadow: 5px 7px 5px rgb(245, 95, 220);
 }
