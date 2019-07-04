@@ -121,6 +121,18 @@ body {
     padding: 0; 
     }
 
+.seaD {
+  background-image: url(/alena_okean/img/dream.jpg);
+  margin: 0;
+  padding: 0;
+  width: 65vw;
+  height: 45vw;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center top;
+  margin-bottom: 0;
+}
+
 .enjoy {
     margin-top: 0vw;
     padding: 0px;
