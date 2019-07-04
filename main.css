@@ -164,7 +164,7 @@ ul.toup {
   padding-left: 3vw;
   display: flex;
   flex-direction: row;
-  justify-content: flex-end;
+  /*justify-content: flex-end;*/
   font-size: 5.5vw;
   text-shadow: 6px 8px 3px rgb(145, 58, 130);
 }
@@ -172,7 +172,7 @@ ul.toup {
 ul.toup li:hover {
   text-shadow: 4px 6px 4px rgb(2, 120, 255);
   font-size: 6vw;
-  flex-direction: flex-end;
+  flex-direction: center;
   padding-top: 7.5vw;
 }
 
@@ -196,7 +196,7 @@ ul.toup li {
   /*Beaut*/
   display: none;
   position: fixed;
-  top: 50%;
+  top: 70%;
   left: 90%;
   justify-content: flex-end;
   color: rgb(0, 140, 255);
