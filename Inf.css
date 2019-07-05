@@ -6,6 +6,7 @@ a {
   text-decoration: none;
   font-size: 4vw;
   color: rgb(0, 0, 255);
+  margin-left: 6vw;
 }
 
 a:hover {
@@ -16,6 +17,7 @@ a:hover {
 p {
   font-size: 4vw;
   color: blue;
+  margin-left: 6vw;
 }
 
 @media (max-width: 220px) {
