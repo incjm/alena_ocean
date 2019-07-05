@@ -201,6 +201,7 @@ ul.toup li {
   justify-content: flex-end;
   color: rgb(0, 140, 255);
   text-shadow: 5px 7px 5px rgb(245, 95, 220);
+  cursor: pointer;
 }
 
 @media (max-width: 560px) {
